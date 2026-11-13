@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nixie": {
+      "type": "http",
+      "url": "https://nixie.studio/mcp"
+    }
+  }
+}

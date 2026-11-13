@@ -1,0 +1,15 @@
+{
+  "name": "nixie-studio",
+  "description": "Nixie.Studio's Claude Code plugin: the Nixie MCP connector and the nixie-video skill.",
+  "owner": {
+    "name": "Nixie.Studio",
+    "url": "https://nixie.studio"
+  },
+  "plugins": [
+    {
+      "name": "nixie-studio",
+      "source": "./",
+      "description": "Make music videos and narrated explainer or training videos with Nixie.Studio's MCP tools."
+    }
+  ]
+}

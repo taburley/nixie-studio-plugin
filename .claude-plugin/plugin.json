@@ -1,0 +1,17 @@
+{
+  "name": "nixie-studio",
+  "displayName": "Nixie.Studio",
+  "version": "0.1.0",
+  "description": "Make music videos and narrated explainer or training videos with Nixie.Studio: the Nixie MCP connector plus a skill that walks Claude through the brief, the estimate, a capped run and the result.",
+  "author": {
+    "name": "Nixie.Studio",
+    "url": "https://nixie.studio"
+  },
+  "homepage": "https://nixie.studio/help",
+  "repository": "https://github.com/taburley/nixie-studio-plugin",
+  "license": "MIT",
+  "keywords": ["video", "music-video", "explainer", "training-video", "mcp"],
+  "documentationUrl": "https://nixie.studio/help",
+  "privacyPolicyUrl": "https://nixie.studio/privacy",
+  "termsOfServiceUrl": "https://nixie.studio/terms"
+}
